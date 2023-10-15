@@ -1,6 +1,6 @@
 # CryptoClustering
 ## Usage
-Open the Crypto_Clustering.ipynb Jupyter Notebook to access the project code.
+Open the _Crypto_Clustering.ipynb_ Jupyter Notebook to access the project code.
 Run the cells in the notebook to perform the analysis and visualize the results.
 Follow the step-by-step instructions in the notebook to replicate the analysis.
 ## Data
