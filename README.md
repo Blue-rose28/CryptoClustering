@@ -1,4 +1,6 @@
 # CryptoClustering
+## Problem
+Predict if cryptocurrencies are affected by 24-hour or 7-day price changes by using Python and prediction methods related to unsupervised.
 ## Usage
 Open the _Crypto_Clustering.ipynb_ Jupyter Notebook to access the project code.
 Run the cells in the notebook to perform the analysis and visualize the results.
