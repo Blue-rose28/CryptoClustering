@@ -4,7 +4,7 @@ Open the _Crypto_Clustering.ipynb_ Jupyter Notebook to access the project code.
 Run the cells in the notebook to perform the analysis and visualize the results.
 Follow the step-by-step instructions in the notebook to replicate the analysis.
 ## Data
-The project uses the crypto_market_data.csv file, which contains cryptocurrency market data with columns such as coin_id, price_change_percentage_24h, price_change_percentage_7d, and others.
+The project uses the crypto_market_data.csv file, which contains cryptocurrency market data with columns such as _coin_id, price_change_percentage_24h, price_change_percentage_7d_, and others.
 
 ## Analysis
 The analysis is divided into several steps:
